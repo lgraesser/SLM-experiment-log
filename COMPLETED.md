@@ -1,2 +1,2 @@
 # Completed experiments
-- [example](experiments/example.md)
+- [example-01/23/2018](experiments/example.md)
