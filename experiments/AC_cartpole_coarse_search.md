@@ -17,11 +17,11 @@
 **Specs:** ("actor_critic.json", "actor_critic_cartpole_coarse_search")
 
 **Running instructions:**
-
+```json
 {
   "actor_critic.json": {
     "actor_critic_cartpole_coarse_search": "search"
   }
 }
-
+```
 **Results summary:** Not completed
