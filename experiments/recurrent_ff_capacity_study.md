@@ -1,4 +1,4 @@
-# Recurrent capacity vs. feedforward capacity study
+# (WIP) Recurrent capacity vs. feedforward capacity study
 
 **Name:**
 
