@@ -2,7 +2,7 @@
 
 **Name:** Actor Critic Benchmark
 
-**Date completed:** Not completed
+**Date completed:** 2018_02_04_013652
 
 **Description:** Standard Benchmark on Actor Critic
 
@@ -26,4 +26,5 @@
 ```
 **Results summary:**
 ![](/assets/ActorCritic_CartPole-v0_experiment_graph.png)
-![](/assets/ActorCritic_CartPole-v0_t55_s0_session_graph.png)
+![](/assets/ActorCritic_CartPole-v0_t21_s0_session_graph.png)
+
