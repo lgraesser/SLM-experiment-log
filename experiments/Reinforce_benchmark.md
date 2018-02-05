@@ -19,8 +19,8 @@
 **Running instructions:**
 ```json
 {
-  "actor_critic.json": {
-    "actor_critic_benchmark": "benchmark"
+  "reinforce.json": {
+    "reinforce_benchmark": "benchmark"
   }
 }
 ```
