@@ -1,0 +1,4 @@
+{ 
+"title": "SLM Experiment Log",
+"plugins": ["katex"]
+}
