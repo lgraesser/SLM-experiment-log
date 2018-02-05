@@ -25,4 +25,6 @@
 }
 ```
 **Results summary:**
+![](/assets/Reinforce_CartPole-v0_experiment_graph.png)
+![](/assets/Reinforce_CartPole-v0_t124_s1_session_graph.png)
 
