@@ -2,7 +2,7 @@
 
 **Name:** Actor Critic Benchmark
 
-**Date completed:** 2018_02_04_013652
+**Date completed:** 2018_02_04_013652, ongoing
 
 **Description:** Standard Benchmark on Actor Critic
 
