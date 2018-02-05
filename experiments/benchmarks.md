@@ -1,7 +1,5 @@
 # Actor Critic Benchmark
 
-
-
 **Name:** Actor Critic Benchmark
 
 **Date completed:** Not completed
