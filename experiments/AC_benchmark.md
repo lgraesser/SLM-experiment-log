@@ -27,8 +27,7 @@
 
 **Commit**: c4538fc9c6e6cd5f1fb91ba742d95225ca4ad4a1
 
-**Results summary:**
-data: ActorCritic_CartPole-v0_2018_02_04_013652
+**Results summary:** ActorCritic_CartPole-v0_2018_02_04_013652
 ![](/assets/ActorCritic_CartPole-v0_experiment_graph.png)
 ![](/assets/ActorCritic_CartPole-v0_t21_s0_session_graph.png)
 
