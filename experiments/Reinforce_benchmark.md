@@ -14,7 +14,7 @@
 
 **Environments:** CartPole-v0, Acrobot-v1
 
-**Specs:** ("actor_critic.json", "actor_critic_benchmark")
+**Specs:** ("reinforce.json", "reinforce_benchmark")
 
 **Running instructions:**
 ```json
