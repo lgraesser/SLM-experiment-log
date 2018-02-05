@@ -20,7 +20,7 @@
 ```json
 {
   "actor_critic.json": {
-    "actor_critic_cartpole_coarse_search": "search"
+    "actor_critic_benchmark": "benchmark"
   }
 }
 ```
