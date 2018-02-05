@@ -1,4 +1,4 @@
-# Standard Benchmarks
+# AC Benchmark
 
 **Name:** Actor Critic Benchmark
 
