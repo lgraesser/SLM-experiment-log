@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Reinforce benchmark](reinforce-benchmark.md)
 
 ## Part 1
 
