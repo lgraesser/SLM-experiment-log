@@ -14,7 +14,7 @@
 
 **Environments:** Cartpole, Acrobot
 
-**Specs:** ("actor_critic.json", "actor_critic_cartpole_coarse_search")
+**Specs:** ("actor_critic.json", "actor_critic_benchmark")
 
 **Running instructions:**
 ```json
