@@ -12,7 +12,7 @@
 
 **Algorithms:** Actor Critic with Generalized Advantage Estimation, episodic training
 
-**Environments:** Cartpole, Acrobot
+**Environments:** CartPole-v0, Acrobot-v1
 
 **Specs:** ("actor_critic.json", "actor_critic_benchmark")
 
@@ -24,4 +24,5 @@
   }
 }
 ```
-**Results summary:** 
+**Results summary:**
+![](/assets/ActorCritic_CartPole-v0_experiment_graph.png)
