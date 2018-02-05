@@ -2,7 +2,7 @@
 
 **Name:** Reinforce Benchmark
 
-**Date completed:** Not completed
+**Date completed:** 2018_02_04_012905
 
 **Description:** Standard Benchmark on Reinforce
 
