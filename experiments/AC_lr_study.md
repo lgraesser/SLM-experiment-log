@@ -1,10 +1,10 @@
-# Actor Critic Entropy Study
+# Actor Critic Relative Learning Rate Study
 
-**Name:** Actor Critic Entropy Study
+**Name:** Actor Critic Relative Learning Rate Study
 
 **Date completed:** Not completed
 
-**Description:** Analysis of the effect of varying the entropy weight on performance across a number of different environments
+**Description:** Analysis of the effect of varying the critic learning rate relative to the actor on performance across a number of different environments
 
 **Hypotheses:** N/A
 
@@ -21,7 +21,7 @@
 ```json
 {
   "actor_critic_studies.json": {
-    "actor_critic_cartpole_entropy": "search",
+    "actor_critic_cartpole_critic_lr": "search",
   },
 }
 ```

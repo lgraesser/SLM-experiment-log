@@ -18,8 +18,14 @@
 
 **Running instructions:**
 
-TBC
+```json
+{
+  "actor_critic_studies.json": {
+    "actor_critic_cartpole_lamda": "search",
+  },
+}
+```
 
-**Commit**: c4538fc9c6e6cd5f1fb91ba742d95225ca4ad4a1
+**Commit**: b614c7d87015ba930888a49a04b2ca0da272c6fd
 
 **Results summary:** Not completed
