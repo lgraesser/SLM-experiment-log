@@ -1,2 +1,2 @@
 # Completed experiments
-- [example-01/23/2018](experiments/example.md)
+- [AC cartpole coarse search - 02/04/18](experiments/AC_cartpole_coarse_search.md)
