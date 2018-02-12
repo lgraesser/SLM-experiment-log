@@ -7,5 +7,6 @@
 - [AC cartpole lamda study](experiments/AC_cartpole_lamda_study.md)
 - [AC cartpole shared param losses study](experiments/AC_cartpole_shared_param_losses_study.md)
 - [AC entropy study](experiments/AC_entropy_study.md)
+- [AC lr study](experiments/AC_lr_study.md)
 - [Recurrent capacity vs. feedforward capacity study](experiment/recurrent_ff_capacity_study.md)
 - [Role of time study](experiment/role_of_time_study.md)
