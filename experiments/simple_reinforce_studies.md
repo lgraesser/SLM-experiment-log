@@ -2,9 +2,9 @@
 
 **Name:** Simple Reinforce Studies
 
-**Date completed:** 2018_02_0
+**Date completed:** 2018_02_16
 
-**Description:** Simple set of experiments using REINFORCE in the CartPole environment. They are intended to illustrate the effect of varying entropy, gamma (the discount rate), and the learning rate. 
+**Description:** Simple set of experiments using REINFORCE in the CartPole environment. They are intended to illustrate the effect of varying entropy, gamma (the discount rate), and the learning rate.
 
 **Hypotheses:** N/A
 
