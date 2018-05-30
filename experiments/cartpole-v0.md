@@ -1,6 +1,6 @@
-# DQN Boltzmann CartPole-v0
+# DN Boltzmann CartPole-v0
 
-**Name:** dqn_boltzmann_cartpole
+**Name:** ddqn_boltzmann_cartpole
 
 **Date completed:**
 
@@ -10,18 +10,18 @@
 
 **Prerequisites:** N/A
 
-**Algorithms:** DQN with Boltzmann policy
+**Algorithms:** DDQN with Boltzmann policy
 
 **Environments:** CartPole-v0
 
 **Specs:**
 ```json
 {
-  "dqn_boltzmann_cartpole": {
+  "ddqn_boltzmann_cartpole": {
     "agent": [{
-      "name": "DQN",
+      "name": "DoubleDQN",
       "algorithm": {
-        "name": "DQN",
+        "name": "DoubleDQN",
         "action_pdtype": "Argmax",
         "action_policy": "boltzmann",
         "action_policy_update": "linear_decay",
