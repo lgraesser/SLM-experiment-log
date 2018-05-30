@@ -1,6 +1,6 @@
-# AC CartPole-v0
+# A2C CartPole-v0
 
-**Name:** ac_cartpole
+**Name:** a2c_cartpole
 
 **Date completed:**
 
@@ -10,14 +10,14 @@
 
 **Prerequisites:** N/A
 
-**Algorithms:** Actor Critic
+**Algorithms:** Advantage Actor Critic
 
 **Environments:** CartPole-v0
 
 **Specs:**
 ```json
 {
-  "ac_cartpole": {
+  "a2c_cartpole": {
     "agent": [{
       "name": "ActorCritic",
       "algorithm": {
@@ -34,7 +34,7 @@
         "continuous_action_clip": 2.0,
         "training_frequency": 1,
         "training_iters_per_batch": 8,
-        "use_GAE": false,
+        "use_GAE": true,
         "lam": 1.0,
         "num_step_returns": 100,
         "policy_loss_weight": 1.0,
@@ -67,7 +67,7 @@
     "env": [{
       "name": "CartPole-v0",
       "max_timestep": null,
-      "max_episode": 10
+      "max_episode": 1000
     }],
     "body": {
       "product": "outer",
@@ -81,6 +81,9 @@
     },
     "search": {
       "agent": [{
+        "algorithm": {
+          "lam__uniform": [0.8, 1.0]
+        },
         "net": {
           "hid_layers__choice": [
             [16],
