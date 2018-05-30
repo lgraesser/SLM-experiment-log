@@ -1,5 +1,7 @@
 # Reinforce Benchmark
 
+TODO clear below; link original paper
+
 **Name:** Reinforce Benchmark
 
 **Date completed:** 2018_02_04_012905, ongoing
