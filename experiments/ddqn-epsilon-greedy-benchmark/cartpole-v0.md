@@ -10,7 +10,7 @@
 
 **Prerequisites:** N/A
 
-**Algorithms:** DDQN with epsilon-greedy policy
+**Algorithms:** DDQN with Epsilon-greedy policy
 
 **Environments:** CartPole-v0
 

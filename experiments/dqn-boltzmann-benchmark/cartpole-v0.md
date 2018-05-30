@@ -1,6 +1,6 @@
-# DQN Epsilon-greedy CartPole-v0
+# DQN Boltzmann CartPole-v0
 
-**Name:** dqn_epsilon_greedy_cartpole
+**Name:** dqn_boltzmann_cartpole
 
 **Date completed:**
 
@@ -10,23 +10,23 @@
 
 **Prerequisites:** N/A
 
-**Algorithms:** DQN with Epsilon-greedy policy
+**Algorithms:** DQN with Boltzmann policy
 
 **Environments:** CartPole-v0
 
 **Specs:**
 ```json
 {
-  "dqn_epsilon_greedy_cartpole": {
+  "dqn_boltzmann_cartpole": {
     "agent": [{
       "name": "DQN",
       "algorithm": {
         "name": "DQN",
         "action_pdtype": "Argmax",
-        "action_policy": "epsilon_greedy",
+        "action_policy": "boltzmann",
         "action_policy_update": "linear_decay",
-        "explore_var_start": 1.0,
-        "explore_var_end": 0.1,
+        "explore_var_start": 1.5,
+        "explore_var_end": 0.3,
         "explore_anneal_epi": 10,
         "gamma": 0.99,
         "training_epoch": 4,

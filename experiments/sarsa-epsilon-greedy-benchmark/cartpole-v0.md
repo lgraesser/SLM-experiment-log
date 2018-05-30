@@ -1,6 +1,6 @@
-# DQN Epsilon-greedy CartPole-v0
+# SARSA Epsilon-greedy CartPole-v0
 
-**Name:** dqn_epsilon_greedy_cartpole
+**Name:** sarsa_epsilon_greedy_cartpole
 
 **Date completed:**
 
@@ -10,34 +10,29 @@
 
 **Prerequisites:** N/A
 
-**Algorithms:** DQN with Epsilon-greedy policy
+**Algorithms:** SARSA with Epsilon-greedy policy
 
 **Environments:** CartPole-v0
 
 **Specs:**
 ```json
 {
-  "dqn_epsilon_greedy_cartpole": {
+  "sarsa_epsilon_greedy_cartpole": {
     "agent": [{
-      "name": "DQN",
+      "name": "SARSA",
       "algorithm": {
-        "name": "DQN",
-        "action_pdtype": "Argmax",
+        "name": "SARSA",
+        "action_pdtype": "default",
         "action_policy": "epsilon_greedy",
         "action_policy_update": "linear_decay",
         "explore_var_start": 1.0,
         "explore_var_end": 0.1,
-        "explore_anneal_epi": 10,
+        "explore_anneal_epi": 100,
         "gamma": 0.99,
-        "training_epoch": 4,
-        "training_frequency": 10,
-        "training_iters_per_batch": 1,
-        "training_min_timestep": 10
+        "training_frequency": 32
       },
       "memory": {
-        "name": "Replay",
-        "batch_size": 32,
-        "max_size": 10000
+        "name": "OnPolicyBatchReplay"
       },
       "net": {
         "type": "MLPNet",
@@ -50,14 +45,11 @@
         },
         "optim_spec": {
           "name": "Adam",
-          "lr": 0.02
+          "lr": 0.01
         },
         "lr_decay": "rate_decay",
         "lr_decay_frequency": 500,
         "lr_decay_min_timestep": 1000,
-        "update_type": "replace",
-        "update_frequency": 1,
-        "polyak_weight": 0.9,
         "gpu": true
       }
     }],

@@ -1,4 +1,4 @@
-# DN Boltzmann CartPole-v0
+# DDQN Boltzmann CartPole-v0
 
 **Name:** ddqn_boltzmann_cartpole
 
