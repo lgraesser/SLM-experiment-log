@@ -1,6 +1,7 @@
 # Actor Critic Benchmark
 
-TODO clear below
+TODO clear below; link original paper
+
 **Name:** Actor Critic Benchmark
 
 **Date completed:** 2018_02_04_013652, ongoing
