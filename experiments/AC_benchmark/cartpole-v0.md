@@ -1,7 +1,5 @@
 # Experiment template
 
-See [example-template](experiments/example.md) for a description of each of the fields and example experiment.
-
 **Name:** ac_cartpole
 
 **Date completed:**
