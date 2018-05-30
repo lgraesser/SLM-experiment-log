@@ -1,6 +1,6 @@
 # Actor Critic Benchmark
 
-[Originally proposed by Konda and Tsitsiklis in 2003](http://www.mit.edu/~jnt/Papers/J094-03-kon-actors.pdf), Actor Critic is a method that uses an actor and a critic. The actor outputs parameters to sample the actions; the critic calculates the value for the policy loss.
+[Proposed by Konda and Tsitsiklis in 2003](http://www.mit.edu/~jnt/Papers/J094-03-kon-actors.pdf), Actor Critic is a method that uses an actor and a critic. The actor outputs parameters to sample the actions; the critic calculates the value for the policy loss.
 
 TODO clear below; link original paper
 
