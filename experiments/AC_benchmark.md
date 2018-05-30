@@ -1,6 +1,6 @@
 # Actor Critic Benchmark
 
-[Originally proposed by Konda and Tsitsiklis in 2003](http://www.mit.edu/~jnt/Papers/J094-03-kon-actors.pdf), Actor Critic is a method that uses an actor and a critic. The actor acts; the critic calculates the advantage, which is then used to calculate the policy loss.
+[Originally proposed by Konda and Tsitsiklis in 2003](http://www.mit.edu/~jnt/Papers/J094-03-kon-actors.pdf), Actor Critic is a method that uses an actor and a critic. The actor acts; the critic calculates the value for the policy loss.
 
 TODO clear below; link original paper
 
