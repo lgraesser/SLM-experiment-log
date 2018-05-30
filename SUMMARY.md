@@ -22,7 +22,7 @@
     * [CartPole-v0](experiments/cartpole-v0.md)
   * [DDQN Epsilon Greedy benchmark](experiments/ddqn-epsilon-greedy-benchmark.md)
     * [CartPole-v0](experiments/ddqn-epsilon-greedy-benchmark/cartpole-v0.md)
-  * DDQN Boltzmann benchmark
+  * [DDQN Boltzmann benchmark](experiments/ddqn-boltzmann-benchmark.md)
     * [CartPole-v0](experiments/cartpole-v0.md)
   * [AC gridworld coarse search](experiments/AC_gridworld_coarse_search.md)
   * [AC cartpole coarse search](experiments/AC_cartpole_coarse_search.md)
