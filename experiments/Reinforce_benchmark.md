@@ -1,5 +1,7 @@
 # Reinforce Benchmark
 
+[Originally proposed by Williams in 1992](http://www-anw.cs.umass.edu/~barto/courses/cs687/williams92simple.pdf), REINFORCE is one of the oldest algorithms, but is still popular. For example, it is used in Google's AlphaGo and its descendants.
+
 TODO clear below; link original paper
 
 **Name:** Reinforce Benchmark
