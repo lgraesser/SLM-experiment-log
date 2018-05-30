@@ -20,6 +20,6 @@ See [example-template](experiments/example.md) for a description of each of the 
 
 **Running instructions:**
 
-**Commit**:
+**Commit:**
 
 **Results summary:**
