@@ -26,9 +26,11 @@
     * [CartPole-v0](experiments/cartpole-v0.md)
   * [Sarsa Epsilon Greedy benchmark](experiments/sarsa-epsilon-greedy-benchmark.md)
     * [CartPole-v0](experiments/sarsa-epsilon-greedy-benchmark/cartpole-v0.md)
+  * [Sarsa Boltzmann benchmark](experiments/sarsa-boltzmann-benchmark.md)
+    * [CartPole-v0](experiments/sarsa-boltzmann-benchmark/cartpole-v0.md)
+  * [Simple reinforce studies](experiments/simple_reinforce_studies.md)
   * [AC gridworld coarse search](experiments/AC_gridworld_coarse_search.md)
   * [AC cartpole coarse search](experiments/AC_cartpole_coarse_search.md)
-  * [Simple reinforce studies](experiments/simple_reinforce_studies.md)
   * [AC pendulum coarse search](experiments/AC_pendulum_coarse_search.md)
   * [AC lunarlander coarse search](experiments/AC_lunarlander_coarse_search.md)
   * DDQN Epsilon Greedy benchmark
