@@ -41,6 +41,7 @@
         "type": "RecurrentNet",
         "hid_layers": [32],
         "hid_layers_activation": "relu",
+        "num_rnn_layers": 1,
         "seq_len": 4,
         "clip_grad": false,
         "clip_grad_val": 1.0,

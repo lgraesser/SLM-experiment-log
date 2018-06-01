@@ -47,6 +47,8 @@
         "type": "Recurrentseparate",
         "hid_layers": [64],
         "hid_layers_activation": "relu",
+        "num_rnn_layers": 1,
+        "seq_len": 4,
         "clip_grad": false,
         "clip_grad_val": 1.0,
         "use_same_optim": false,
