@@ -34,7 +34,6 @@ check in on their env again for intuitive physics
 - NN architecture - head, tail, restricted body connections, multi body weight sharing
 
 ### Misc
-- meta learning formulation from Pieter’s keynote
 * Fake rollout data training like supervised
 * Multitask and architecture
 * Correspondence
