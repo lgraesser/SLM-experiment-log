@@ -8,6 +8,7 @@
 - PGQL https://arxiv.org/pdf/1611.01626.pdf
 - Hindsight experience replay
 - neuroevolution
+- meta learning formulation from Pieter’s keynote
 
 ### Environments
 
