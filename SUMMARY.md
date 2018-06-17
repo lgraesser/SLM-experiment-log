@@ -3,7 +3,6 @@
 * [Introduction](README.md)
 * [New Experiments](USAGE.md)
 * [Experiment Template](TEMPLATE.md)
-* [Pending experiment queue](QUEUE.md)
 * [Completed experiments](COMPLETED.md)
 * [Experiment pages](experiment-pages.md)
   * [AC benchmark](experiments/AC_benchmark.md)
@@ -35,4 +34,5 @@
   * [AC lunarlander coarse search](experiments/AC_lunarlander_coarse_search.md)
 * [Research Roadmap](research-roadmap.md)
 * [Engineering Roadmap](engineering-roadmap.md)
+* [Lab Jobs](lab-jobs.md)
 

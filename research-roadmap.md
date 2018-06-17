@@ -9,7 +9,7 @@
 [Requests for Research 2.0](https://blog.openai.com/requests-for-research-2/)
 Regularization as example that directly tackles the reproducibility question. lab provides code + data + run instruction. here's what we did, the results, and how to run it for yourself. Take a step back, here's why it's reproducible, because you are already seeing everything and can rerun it for yourself without extra work.
 
-### Hybrid Policy util
+### Hybrid Policy
 - try Q with non-argmax output sampling like in PG
 - try PG/AC methods with boltzmann/epsilon greedy policy
 
