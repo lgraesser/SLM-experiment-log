@@ -33,4 +33,5 @@
   * [AC cartpole coarse search](experiments/AC_cartpole_coarse_search.md)
   * [AC pendulum coarse search](experiments/AC_pendulum_coarse_search.md)
   * [AC lunarlander coarse search](experiments/AC_lunarlander_coarse_search.md)
+* [Research Roadmap](research-roadmap.md)
 
