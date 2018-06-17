@@ -2,6 +2,8 @@
 
 [Proposed by Konda and Tsitsiklis in 2003](http://www.mit.edu/~jnt/Papers/J094-03-kon-actors.pdf), Actor Critic is a method that uses an actor and a critic. The actor outputs parameters to sample the actions; the critic calculates the value for the policy loss.
 
+Plain AC uses TD error for loss, in contrast with an advantage function for A2C.
+
 TODO clear below; link original paper
 
 **Name:** Actor Critic Benchmark
@@ -14,7 +16,7 @@ TODO clear below; link original paper
 
 **Prerequisites:** N/A
 
-**Algorithms:** Actor Critic with Generalized Advantage Estimation, episodic training
+**Algorithms:** Actor Critic episodic training
 
 **Environments:** CartPole-v0, Acrobot-v1
 
