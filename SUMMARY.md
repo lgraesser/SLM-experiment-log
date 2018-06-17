@@ -3,7 +3,6 @@
 * [Introduction](README.md)
 * [New Experiments](USAGE.md)
 * [Experiment Template](TEMPLATE.md)
-* [Completed experiments](COMPLETED.md)
 * [Experiment pages](experiment-pages.md)
   * [AC benchmark](experiments/AC_benchmark.md)
     * [CartPole-v0](experiments/AC_benchmark/cartpole-v0.md)
@@ -32,7 +31,7 @@
   * [AC cartpole coarse search](experiments/AC_cartpole_coarse_search.md)
   * [AC pendulum coarse search](experiments/AC_pendulum_coarse_search.md)
   * [AC lunarlander coarse search](experiments/AC_lunarlander_coarse_search.md)
+* [Lab Jobs](lab-jobs.md)
 * [Research Roadmap](research-roadmap.md)
 * [Engineering Roadmap](engineering-roadmap.md)
-* [Lab Jobs](lab-jobs.md)
 
