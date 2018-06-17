@@ -23,5 +23,6 @@ Standard benchmark environments for book:
 ### Running
 
 - cartpole benchmark on all algos
+- ::Generate random data:: for random on envs. use script
 
 ### Completed
