@@ -4,6 +4,7 @@
 
 - extend: reproduce CER on replay for all algos and envs
 - new: use CER for PER as CPER and compare results
+- Exponentially decay sampling from replay (old OpenAI Lab memory ideas)
 
 ### Regularization
 [Requests for Research 2.0](https://blog.openai.com/requests-for-research-2/)
@@ -33,6 +34,7 @@ check in on their env again for intuitive physics
 - NN architecture - head, tail, restricted body connections, multi body weight sharing
 
 ### Misc
+- meta learning formulation from Pieter’s keynote
 * Fake rollout data training like supervised
 * Multitask and architecture
 * Correspondence
