@@ -2,6 +2,7 @@
 
 ### Algorithms
 
+- add different networks: density net, choice net
 - Make a recurrent convnet (last layer RNN)
 - general Hydra architecture for all algos
 - generic distributed worker for all algos
