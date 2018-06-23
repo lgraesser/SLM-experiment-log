@@ -9,11 +9,10 @@
 - PGQL https://arxiv.org/pdf/1611.01626.pdf
 - autoreward with IRL: https://arxiv.org/pdf/1806.04640.pdf and https://arxiv.org/abs/1806.01946
 - World model, GAN
-- MAML
+- MAML, meta learning formulation from Pieter’s keynote
 - RUDDER
 - Hindsight experience replay
 - neuroevolution
-- meta learning formulation from Pieter’s keynote
 
 ### Environments
 
