@@ -7,17 +7,9 @@
 - Exponentially decay sampling from replay (old OpenAI Lab memory ideas)
 - Research: SIL with CER and PER
 
-
-### Regularization
-[Requests for Research 2.0](https://blog.openai.com/requests-for-research-2/)
-Regularization as example that directly tackles the reproducibility question. lab provides code + data + run instruction. here's what we did, the results, and how to run it for yourself. Take a step back, here's why it's reproducible, because you are already seeing everything and can rerun it for yourself without extra work.
-
 ### Hybrid Policy
 - try Q with non-argmax output sampling like in PG
 - try PG/AC methods with boltzmann/epsilon greedy policy
-
-### Tobias’s intuitive theory research
-check in on their env again for intuitive physics
 
 ### Multitask with hydra
 
@@ -37,6 +29,15 @@ Then, switch training to using composite tasks and let it master them. Might nee
 - Canonical experiments: Get results for all implemented algorithms on cartpole, lunar, mountain car, acrobot, gridworld, 2d and 3d ball + 2 - 3 more
 - NN architecture - head, tail, restricted body connections, multi body weight sharing
 
+### Tobias’s intuitive theory research
+check in on their env again for intuitive physics
+
+### Regularization
+[Requests for Research 2.0](https://blog.openai.com/requests-for-research-2/)
+Regularization as example that directly tackles the reproducibility question. lab provides code + data + run instruction. here's what we did, the results, and how to run it for yourself. Take a step back, here's why it's reproducible, because you are already seeing everything and can rerun it for yourself without extra work.
+
+### OpenAI Retro contest
+Apparently there's still room for improvement. Theoretical max score is 10k, top performance is only 4692. https://blog.openai.com/first-retro-contest-retrospective/
 
 ### Misc
 * Fake rollout data training like supervised
