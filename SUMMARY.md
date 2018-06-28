@@ -34,8 +34,8 @@
   * [AC cartpole coarse search](experiments/AC_cartpole_coarse_search.md)
   * [AC pendulum coarse search](experiments/AC_pendulum_coarse_search.md)
   * [AC lunarlander coarse search](experiments/AC_lunarlander_coarse_search.md)
+* [Fitness Matrix](fitness-matrix.md)
 * [Policy Gradient](policy-gradient.md)
   * [REINFORCE](policy-gradient/reinforce.md)
-* [Fitness Matrix](fitness-matrix.md)
 * [Value-based](value-based.md)
 
