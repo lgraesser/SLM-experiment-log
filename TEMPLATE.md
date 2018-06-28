@@ -1,25 +1,32 @@
-# Experiment template
+## Template Algorithm Name
 
-See [example-template](experiments/example.md) for a description of each of the fields and example experiment.
+### Experiment name
 
-**Name:**
+_Give this study a name_
 
-**Date completed:**
+### Hypothesis
 
-**Description:**
+_What hypothesis are you testing?_
 
-**Hypotheses:**
+### Experiment design
 
-**Prerequisites:**
+_How do you design the experiment, what are the independent/dependent variables, etc._
 
-**Algorithms:**
+### Conclusion
 
-**Environments:**
+_Did it verify your hypothesis? What did you learn?_
 
-**Specs:**
+### Spec
 
-**Running instructions:**
+_The JSON specs output from run, including the predir nam so we know the date._
 
-**Commit:**
+### Data
 
-**Results summary:**
+**Best fitness score:** _fitness score of the best trial_
+
+**Best trial graph:**
+
+**Experiment graph:**
+
+**Dropbox link:** _URL to the experiment data folder on Dropbox_
+
