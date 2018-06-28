@@ -38,4 +38,5 @@
 * [Policy Gradient](policy-gradient.md)
   * [REINFORCE](policy-gradient/reinforce.md)
 * [Value-based](value-based.md)
+  * [SARSA](value-based/sarsa.md)
 
