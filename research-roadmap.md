@@ -39,7 +39,15 @@ Regularization as example that directly tackles the reproducibility question. la
 ### OpenAI Retro contest
 Apparently there's still room for improvement. Theoretical max score is 10k, top performance is only 4692. https://blog.openai.com/first-retro-contest-retrospective/
 
+### Other competitions
+- crowdAI prosthetics https://www.crowdai.org/challenges/nips-2018-ai-for-prosthetics-challenge
+- crowdAI VizDoom https://www.crowdai.org/challenges/visual-doom-ai-competition-2018-track-1
+- crowdAI Minecraft https://www.crowdai.org/challenges/marlo-2018
+- NIPS Pommerman https://www.pommerman.com/competitions
+- GECCO GVG-AI http://www.gvgai.net/
+
 ### Misc
+* Robust control, noisy matrix
 * Fake rollout data training like supervised
 * Multitask and architecture
 * Correspondence

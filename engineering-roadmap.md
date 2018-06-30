@@ -4,6 +4,7 @@
 
 - add different networks: density net, choice net
 - Make a recurrent convnet (last layer RNN)
+- curiosity for PPO/A2C
 - general Hydra architecture for all algos
 - generic distributed worker for all algos
 - general value function from Sutton and Barto last chapter
@@ -11,7 +12,7 @@
 - autoreward with IRL: https://arxiv.org/pdf/1806.04640.pdf and https://arxiv.org/abs/1806.01946
 - World model, GAN
 - MAML, meta learning formulation from Pieter’s keynote
-- RUDDER
+- DYNA and full model based methods
 - Hindsight experience replay
 - neuroevolution
 
@@ -20,6 +21,7 @@
 - build the reacher and push unity envs
 - add OpenAI gym retro
 - update unity env and release
+- add GVG-AI
 
 ### Saving
 
