@@ -8,6 +8,7 @@
 - general Hydra architecture for all algos
 - generic distributed worker for all algos
 - general value function from Sutton and Barto last chapter
+- implement the unified bellman equation (account for information flow, minimum info needed to maximize rewards) https://arxiv.org/pdf/1703.01585.pdf
 - PGQL https://arxiv.org/pdf/1611.01626.pdf
 - autoreward with IRL: https://arxiv.org/pdf/1806.04640.pdf and https://arxiv.org/abs/1806.01946
 - World model, GAN
