@@ -2,7 +2,7 @@
 
 ### Algorithms
 
-- add different networks: density net, choice net
+- add different networks: mixed density net https://github.com/sagelywizard/pytorch-mdn, choice net
 - Make a recurrent convnet (last layer RNN)
 - curiosity for PPO/A2C
 - general Hydra architecture for all algos
