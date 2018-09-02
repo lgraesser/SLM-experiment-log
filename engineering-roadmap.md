@@ -37,7 +37,7 @@
 - ability to resume from random search
 - use torch vision tool for images, replace util
 - early termination on solved condition
-- add preprocessor: rms, ob std and clip
+- add preprocessor: rms, ob std and clip (i.e. option to normalize states)
 - add mltest
 - tensor board
 - Parameter noise from baselines
