@@ -1,5 +1,7 @@
 ## Research Roadmap
 
+[See Github projects for more](https://github.com/kengz/SLM-Lab/projects)
+
 ### CER
 
 - extend: reproduce CER on replay for all algos and envs

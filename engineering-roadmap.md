@@ -1,5 +1,7 @@
 ## Engineering Roadmap
 
+[See Github projects for more](https://github.com/kengz/SLM-Lab/projects)
+
 ### Algorithms
 
 - add different networks: mixed density net https://github.com/sagelywizard/pytorch-mdn, choice net
@@ -7,7 +9,6 @@
 - curiosity for PPO/A2C
 - DYNA and full model based methods
 - general Hydra architecture for all algos
-- generic distributed worker for all algos
 - general value function from Sutton and Barto last chapter
 - implement the unified bellman equation (account for information flow, minimum info needed to maximize rewards) https://arxiv.org/pdf/1703.01585.pdf
 - PGQL https://arxiv.org/pdf/1611.01626.pdf
@@ -37,9 +38,6 @@
 - ability to resume from random search
 - use torch vision tool for images, replace util
 - early termination on solved condition
-- add preprocessor: rms, ob std and clip (i.e. option to normalize states)
-- add mltest
 - tensor board
 - Parameter noise from baselines
-- Change Adam. MA convergence problem
 - long term: let memory keep soft reference to data space, make data space take arbitrary data.
