@@ -95,8 +95,6 @@
 
 Sep 9 2018
 
-
-
 ```json
 {
   "reinforce_mlp_cartpole": {
@@ -1579,7 +1577,6 @@ Sep 9 2018
     }
   }
 }
-
 ```
 
 
